@@ -40,7 +40,8 @@
 ## 主な実績
 
 ### DOOONUT 開発
-- QA エンジニア・スクラムマスターとしてリニューアルに参画し、テスト設計〜自動化を推進
+- QA エンジニア・スクラムマスターとしてリニューアルに参画し、タスク管理、エンジニア相談窓口や、テストを推進
+- PMOとして責任者と開発要件のスケジューリング、MTGのファシリテーションなどの雑務
 - 新機能の仕様策定、Figma でのデザイン叩きを担当
 - AWS コストを **70% 削減** する料金プラン見直しを実行
 
@@ -58,22 +59,23 @@
 - 品質保証計画・テスト設計
 
 ### 技術
-- 言語: Java, Go, JavaScript, TypeScript
+- 言語（コーディング）: Java, HTML, CSS
+- 言語（非コーディング）Go, JavaScript, TypeScript
 - クラウド: AWS (Lambda, RDS, IAM)
 - コンテナ: Docker, WSL2
 - 自動化: GitHub Actions, Playwright, Puppeteer
 - DB: PostgreSQL, Oracle, MySQL
-- その他: NodeCG + React による配信画面構築
 
 ### 映像・配信
 - カメラ: SONY NX5R / NX80 / Z90 / Z150 / Z190 / FX6, PTZ (Barddog P120)
-- スイッチャー: Roland, Blackmagic Design, Panasonic, vMix, Wirecast, OBS
-- 音響: ZOOM, YAMAHA
-- クロマキー合成、NDI 伝送
+- スイッチャー: Roland, Blackmagic Design, Panasonic, 
+- 配信ソフト：Wirecast, OBS, vMix
+- 音響: YAMAHA MG12XU, ZOOM L-8
+- その他技術: クロマキー合成、NDI 伝送
 
 ### AI / LLM
 - Cursor, Claude, ChatGPT, Gemini, MCP
-- AI 文字起こし、ライティング、テストケース自動生成
+- AI 文字起こし、ライティング、Playwright MCPを用いてテストケース生成
 
 ---
 
