@@ -55,8 +55,8 @@ AI技術の急速な進化により「これからのビジネスパーソンに
 | 2019/04 – 2019/09 | 政府系金融機関 バージョンアップ業務 | Oracle Database |
 | 2019/10 – 2019/12 | CRM システム改修 | Salesforce / Dr.Sum / MotionBoard / Oracle Database |
 | 2020/01 – 2020/08 | モバイルアプリ評価 | iOS / Android / Android SDK / Firebase / XCode |
-| 2024/04 – 2024/10 | DOOONUT リニューアル開発(QA/スクラムマスター) | AWS / Jira / GitHub |
-| 2024/10 – 現在 | DOOONUT 新規開発 / 機能改善 | AWS / Jira / GitHub |
+| 2024/04 – 2024/10 | DOOONUT リニューアル開発(PMO/QA/スクラムマスター) | AWS / Jira / GitHub |
+| 2024/10 – 現在 | DOOONUT 新規開発・機能改善(PMO/QA/スクラムマスター) | AWS / Jira / GitHub |
 
 #### IT領域 プロジェクト詳細
 
@@ -110,7 +110,7 @@ AI技術の急速な進化により「これからのビジネスパーソンに
   - カスタマイズした商品が正常に機能するか検証
   - 環境構築マニュアル作成（ローカル、Azure上）
 
-**2019/04 – 2019/09 | 政府系金融機関 バージョンアップ業務**
+**2019/04 – 2019/09 | 金融機関業務システムバージョンアップ業務**
 - **プロジェクト概要**: オンライン上で動作する業務システムの現行版と次期版での比較作業（中国とのオフショア開発）。現行側の検証作業を日本で担当
 - **業務内容**:
   - 現新比較（オンライン上の検証作業・バッチテスト）
@@ -143,6 +143,70 @@ AI技術の急速な進化により「これからのビジネスパーソンに
 | 2020/09 – 2022/11 | 株式会社メディア・ゲート・ジャパン | 配信オペレーター / フロアディレクター |
 | 2023/01 – 現在 | 株式会社サムシングファン | 配信技術兼エディター / SaaS事業 / SaaS開発管理 |
 
+---
+
+## IT主な実績
+
+### DOOONUT 開発
+- QA エンジニア・スクラムマスターとしてリニューアルに参画し、タスク管理、エンジニア相談窓口や、テストを推進
+- リニューアル後はPMOとして責任者と開発要件のスケジューリング、エンジニアからの要望に答えたりMTGのファシリテーションなど実施
+- AWSのIAM管理、Cognitoを使ったAdminアカウントの作成、GitHubのリポジトリ管理、Jiraの管理も担当
+- 新機能の仕様策定、Figma でのデザイン叩きを担当
+- AWS コストを **70% 削減** する料金プラン見直しを実行
+- 新規開発、機能改善業務
+  - パーソナライズURL機能（メールユーザー項目）追加
+    - 仕様策定、デザイン叩き作成、タスク管理、テスト実施
+  - 分析機能刷新
+    - 仕様策定、タスク管理、テスト実施
+
+### 配信業務
+- 医療系イベント、株主総会、講演会など年間多数の配信を担当
+- 機材選定〜構成図作成、外注スタッフ管理まで一気通貫で対応
+
+---
+
+## ITスキルセット
+
+### マネジメント
+- プロジェクト管理: Jira / Redmine / Backlog
+- スクラムチーム運営、チームビルディング
+- 品質保証計画、テスト設計、テストリーダーとしてテスト人員管理
+
+### 技術の利用実績
+- 言語（コーディング）: Java, HTML, CSS
+- クラウド: AWS, Azure
+- コンテナ: Docker, WSL2
+- 自動化: GitHub Actions, Playwright(MCP)
+- DB: PostgreSQL, Oracle, MySQL
+- オフィススイート: Google Workspace, Microsoft Office
+
+### AI
+Claude 3.7 SonnetとModel Context Protocol(MCP)でAIが"おもちゃ"ではなく実用的な将来性を感じました。今は主にCursorを使っています。
+- Cursor(Pro)
+  - MCPを活用したデータ収集、Marpと併せたスライド生成、Rulesを適用させたAIライティング、テスト項目生成、Claude Code/Gemini CLI操作
+- Claude Desktop(Pro)
+  - 技術的な質問と回答、Playwright MCPを用いたテスト補助
+- Claude Code
+  - Webサイトのモックを作るのに利用
+- ChatGPT(Team)
+  - 技術的な質問と回答、AI検索としての利用、画像生成
+- Gemini(Google Workspace)
+  - 自然言語でのGoogle Calender操作、ロングコンテキストの整理、Canvasでスライド生成
+- Gemini CLI
+  - ブログ記事の執筆、趣味でゲームつくり
+- Tactiq
+  - Google MeetやZoomの文字起こし、Google Meetの文字起こし機能と併せて利用
+- Dify
+- Devin
+- Kiro
+- Ollama
+- Genspark
+- Stable Diffusion WebUI
+- Adobe Firefly  
+  etc...  
+
+---
+
 #### 映像配信領域 技術詳細
 
 - Zoom、Teams、Youtube、Vimeoでの配信50件以上（2024年）
@@ -150,7 +214,7 @@ AI技術の急速な進化により「これからのビジネスパーソンに
 - 映像配信担当として機材選定、機材図作成から搬入～撤収、アーカイブ納品までを一括で担当
 - 編集配信時のBGM選定、長期案件の人員選定
 - スタジオでのYoutube収録、ナレーション収録オペレーター
-- レンタル機材管理、スタジオ構築アシスタント経験
+- レンタル機材管理、スタジオ構築アシスタント経験、ホール技術経験
 - ファイルサーバーの契約・運用
 
 **技術領域別スキル**
@@ -201,96 +265,16 @@ AI技術の急速な進化により「これからのビジネスパーソンに
 - ストリーミング: OBS Studio, Wirecast
 - 編集: Premiere Pro（カット編集、字幕作成、テロップ、クロマキー合成）
   - プラグイン: Waves Audio Clarity VX, Waves Audio MV2
-  - AfterEffects, DaVinci Resolve（経験少）
 - デザイン: Photoshop, Illustrator（配信用素材、社内用管理シート作成）
 - 音声処理: VB-audio, iZotope RX10
 - その他: Jstream Equipmedia, Adobe XD, Visual Studio Code
 - 会議システム: Zoom, Teams, WebEx
 - 配信技術: NDI
-- オフィス: Google Workspace
-
-
-**技術への興味・提案レベル**
-
-**興味分野**
-- H265 HEVC、AV1の活用
-- AV over IP、NDI、SRTを駆使したスマートな配信
-- Reactを使った動的UIのライブ配信技術
+- ファイル管理: Google Workspace
 
 **提案・実証レベル**
 - Reactを使った動的UIのライブ配信技術の実証提案
 - Web3、NFT事業の提案
-
----
-
-## 主な実績
-
-### DOOONUT 開発
-- QA エンジニア・スクラムマスターとしてリニューアルに参画し、タスク管理、エンジニア相談窓口や、テストを推進
-- リニューアル後はPMOとして責任者と開発要件のスケジューリング、エンジニアからの要望に答えたりMTGのファシリテーションなど実施
-- IT人材不在のため、AWSのIAM管理、Cognitoを使ったAdminアカウントの作成、GitHubのリポジトリ管理、Jiraの管理も担当
-- 新機能の仕様策定、Figma でのデザイン叩きを担当
-- AWS コストを **70% 削減** する料金プラン見直しを実行
-- 新規開発、機能改善業務
-  - パーソナライズURL機能（メールユーザー項目）追加
-    - 仕様策定、デザイン叩き作成、タスク管理、テスト実施
-  - 分析機能刷新
-    - 仕様策定、タスク管理、テスト実施
-
-### 配信業務
-- 医療系イベント、株主総会、講演会など年間多数の配信を担当
-- 機材選定〜構成図作成、外注スタッフ管理まで一気通貫で対応
-
----
-
-## スキルセット
-
-### マネジメント
-- プロジェクト管理: Jira / Redmine / Backlog
-- スクラムチーム運営、チームビルディング
-- 品質保証計画、テスト設計、テストリーダーとしてテスト人員管理
-
-### 技術
-- 言語（コーディング）: Java, HTML, CSS
-- クラウド: AWS, Azure
-- コンテナ: Docker, WSL2
-- 自動化: GitHub Actions, Playwright(MCP)
-- DB: PostgreSQL, Oracle, MySQL
-- オフィススイート: Google Workspace, Microsoft Office
-
-### 映像・配信
-- カメラ: SONY NX5R / NX80 / Z90 / Z150 / Z190 / FX6, PTZ (Barddog P120)
-- スイッチャー: Roland, BlackmagicDesign, Panasonic
-- 配信ソフト：vMix, Wirecast, OBS
-- 音響: YAMAHA MG12XU, ZOOM L-8
-- その他技術: クロマキー合成、20名程の外注管理案件、長期配信案件の経験
-
-### AI
-Claude 3.7 SonnetとModel Context Protocol(MCP)でAIが"おもちゃ"ではなく実用的な将来性を感じました。今は主にCursorを使っています。
-- Cursor(Pro)
-  - MCPを活用したデータ収集、Marpと併せたスライド生成、Rulesを適用させたAIライティング、テスト項目生成、Claude Code/Gemini CLI操作
-- Claude Desktop(Pro)
-  - 技術的な質問と回答、Playwright MCPを用いたテスト補助
-- Claude Code
-  - Webサイトのモックを作るのに利用してますが主に趣味で自作ゲーム作りとして利用。
-- ChatGPT(Team)
-  - 技術的な質問と回答、AI検索としての利用、画像生成
-- Gemini(Google Workspace)
-  - 自然言語でのGoogle Calender操作、ロングコンテキストの整理、Canvasでスライド生成
-- Gemini CLI
-  - Claude Codeと同様に主に趣味で自作ゲーム作りとして利用。弊社がGoogle Workspaceを利用しているため業務利用模索中
-- Tactiq
-  - Google MeetやZoomの文字起こし、Google Meetの文字起こし機能と併せて利用
-- Dify(勉強中)
-- Devin(勉強中)
-- Kiro(勉強中)
-- Ollama
-- Genspark
-- Stable Diffusion WebUI
-- Adobe Firefly  
-  etc...  
-  好きなモデルはClaudeでMCPを普段使いしています。好きなMCPツールはPlaywright MCPです。  
----
 
 ## 活かせる強み、好きなこと、苦手なこと
 
