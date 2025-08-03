@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "preset-ja-technical-writing": true,
+    "preset-japanese": true,
+    "@textlint-ja/textlint-rule-preset-ai-writing": true
+  }
+} 
