@@ -1,4 +1,0 @@
----
-alwaysApply: true
----
-・git pushで更新するたびにpush前に work_history_2025-01-28.md を保存する事
